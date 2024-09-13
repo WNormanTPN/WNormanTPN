@@ -2,7 +2,7 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Phan Phuoc Vinh (Norman)</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EndL.243)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-norman-06aa40186/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WNormanTPN/)
 
 ![Game Developer](https://img.shields.io/badge/C%23%2C%20Unity%2C%20DOTS-Game_Development?style=flat&logo=unity&logoSize=auto&label=Game%20Development)
 ![Data Science](https://img.shields.io/badge/Python%2C%20SQL%2C%20AWS%2C%20Docker-red?style=flat&logo=python&logoColor=white&logoSize=auto&label=Data%20Science)
