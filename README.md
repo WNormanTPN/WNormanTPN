@@ -23,12 +23,31 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU1MjI5OTksIm5iZiI6MTcyNTUyMjY5OSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA1VDA3NTEzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRjZWQ1Yjk4ODE1NTFmMDBkYTM0MjQ2MmY5ZDBhZTZlYmExMzhjM2UxNTQyZWMwMzM5ZjJjZWU4YTk1OTJlYzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eFcdGEglp_VjUir8LEXEBr9wY3XZ8thfQ5_zqv5X0xc" width="30" height="30" /><b> My Best Projects</b>
 
+<div align="center"><h3>🎮 Game Projects 🎮</h3>
+
 <a href="https://github.com/WNormanTPN/Axie-Rescuer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=Axie-Rescuer&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a> 
 <a href="https://github.com/WNormanTPN/Archer-RPG-3D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=Archer-RPG-3D&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a>
+
+<h3>🔨 Sofware Projects 🔨</h3>
+
+<a href="https://github.com/WNormanTPN/Axie-Rescuer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=HotelManagement&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
+</a> 
+
+<h3>🤖 Data Science Project 🤖</h3>
+
+<a href="https://github.com/WNormanTPN/Axie-Rescuer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=self-driving-car&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
+</a> 
+<a href="https://github.com/WNormanTPN/Axie-Rescuer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=license-plate-recognizer&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
+</a> 
+
+</div>
 
 <br/>
 <br/>
