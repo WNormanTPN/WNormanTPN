@@ -49,9 +49,6 @@
 <a href="https://github.com/WNormanTPN/self-driving-car">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=self-driving-car&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
 </a> 
-<a href="https://github.com/WNormanTPN/license-plate-recognizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WNormanTPN&repo=license-plate-recognizer&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a&border_color=0c1a25&show_icons=true" />
-</a> 
 
 </div>
 
